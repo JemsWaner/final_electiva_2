@@ -1,0 +1,24 @@
+{
+  "name": "final_electiva_2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1 jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JemsWaner/final_electiva_2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JemsWaner/final_electiva_2/issues"
+  },
+  "homepage": "https://github.com/JemsWaner/final_electiva_2#readme",
+  "description": "",
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "jsdom": "^26.1.0"
+  }
+}
